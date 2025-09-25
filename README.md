@@ -1,4 +1,4 @@
-# I'm Bet,
+# I'm bet,
 
 Learning **web security** and focusing on **bug bounty hunting**.  
 Currently exploring vulnerabilities like SQLi, XSS, SSRF, and more.  
