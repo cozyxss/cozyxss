@@ -1,6 +1,6 @@
-# I'm Betul,
+# I'm Bet,
 
-learning **web security** and focusing on **bug bounty hunting**.  
+Learning **web security** and focusing on **bug bounty hunting**.  
 Currently exploring vulnerabilities like SQLi, XSS, SSRF, and more.  
 
 On the side, I sometimes dive into:
