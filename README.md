@@ -1,7 +1,7 @@
 # I'm bet,
 
 Learning **web security** and focusing on **bug bounty hunting**.  
-Currently exploring vulnerabilities like SQLi, XSS, SSRF, and more.  
+Currently exploring vulnerabilities like SQLi, SSTI, XXE, CRLF and more.  
 
 On the side, I sometimes dive into:
 - 🐍 Python and Bash scripting
