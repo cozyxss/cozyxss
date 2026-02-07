@@ -1,29 +1,24 @@
-# I'm bet,
+# I'm betul,
 
-Learning **web security** and focusing on **bug bounty hunting**.  
-Currently exploring vulnerabilities like SQLi, SSTI, XXE, CRLF and more.  
+Exploring **reverse engineering** and working toward becoming a reverse engineer.  
+Currently learning **C and Python** and enjoying breaking down programs to understand how they really work.
 
-On the side, I sometimes dive into:
-- 🐍 Python and Bash scripting
-- 🧩 Algorithm problems (LeetCode, etc.)
+On the side, I love experimenting with:
+- 🎨 Creating pixel art using Aseprite
+- 🧩 Building cute desktop applications
 
 ## 🚀 Current Focus
-- Practicing web vulnerabilities (labs & write-ups)
-- Trying to ditch Windows and live on Linux 🐧 
-- Building a personal knowledge repo: [Web Vulnerability Journal](https://github.com/bbetulkaya/web-vuln-journal)
-
-
-<!-- ## 🛠️ Tech & Tools
-- Burp Suite, sqlmap,
-- Python
--->
+- Learning Python with **Automate the Boring Stuff with Python**
+- Learning C with **The C Programming Language K&R**
+- Making pixel art and small desktop app
+- Writing Medium posts to share what I learn and document my journey
 
 ## 🌱 Goals
-- Improve bug bounty skills step by step
-- Share write-ups and payloads
-- Level up in Python & problem-solving
+- Understand software deeply by analysing and experimenting with programs
+- Improve C, Python and problem-solving skills
+- Keep creating software projects and pixel art
 
 ---
-*Always learning, always hacking (ethically).* </br>
-[Blog](https://betulkaya.net/) | [Twitter](https://x.com/cozyxss)
-<!-- **Youtube**: [@cybernotesY](https://www.youtube.com/@cybernotesY) -->
+
+[Blog](https://betulkaya.net/) | [Twitter](https://x.com/cozyxss) | [Medium](https://medium.com/@cozyxss)
+
