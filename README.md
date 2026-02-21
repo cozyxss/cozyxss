@@ -1,24 +1,24 @@
-# I'm betul,
+# I'm betul
 
-Exploring **reverse engineering** and working toward becoming a reverse engineer.  
-Currently learning **C and Python** and enjoying breaking down programs to understand how they really work.
+Learning and building in **game development**.  
+Currently working with **C++ and Python**, focusing on strengthening fundamentals and improving problem-solving through hands-on projects.
 
-On the side, I love experimenting with:
-- 🎨 Creating pixel art using Aseprite
-- 🧩 Building cute desktop applications
+## 🧩 What I Do
+- 🎮 Developing small games and experimenting with mechanics
+- 🎨 Creating pixel art with Aseprite
+- ✍️ Writing Medium posts to document what I learn
 
 ## 🚀 Current Focus
-- Learning Python with **Automate the Boring Stuff with Python**
-- Learning C with **The C Programming Language K&R**
-- Making pixel art and small desktop app
-- Writing Medium posts to share what I learn and document my journey
+- Learning Python with *Automate the Boring Stuff with Python*
+- Learning C++ for game development
+- Building small game projects
 
 ## 🌱 Goals
-- Understand software deeply by analysing and experimenting with programs
-- Improve C, Python and problem-solving skills
-- Keep creating software projects and pixel art
+- Build strong foundations in C++ and Python
+- Develop and publish small indie games
+- Improve problem-solving skills
+- Keep creating software projects and pixel art consistently
 
 ---
 
 [Blog](https://betulkaya.net/) | [Twitter](https://x.com/cozyxss) | [Medium](https://medium.com/@cozyxss)
-
