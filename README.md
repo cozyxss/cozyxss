@@ -1,28 +1,53 @@
-# I'm betul
+<h3 align="center">⋆˚✦ betül ✦˚⋆</h3>
+<p align="center">your friendly neighbourhood computer engineer 𖦹</p>
 
-Figuring out computers to become your friendly neighbourhood computer engineer 👊
+──────────────────────────────
 
-## 🧩 What I Do
-- Building hands-on labs & system projects
-- Documenting my learning journey with quick notes and cheatsheets
-- Writing detailed project walkthroughs and technical guides
+✦ **about**
 
-## 🚀 Current Status
-- **Level:** I.T
-- **Quest:** Active Directory Lab
+I like understanding how things work end to end:
+the infrastructure underneath, the web apps on top, and the AI in between.
 
-## 🌱 Goals
-- Build strong foundations in systems, networking, and IT infrastructure
-- Create practical labs and share detailed write-ups
-- Keep documenting and sharing notes consistently
+⟡ **IT & systems** → building and running the infrastructure  
+⟡ **web security** → breaking and defending what runs on it  
+⟡ **AI** → local models and automation, used securely
 
----
+build it ⋆ break it ⋆ secure it ⋆ automate it
 
-### 🌐 Where to Find Me
-- **GitHub + X + TikTok:** Quick study notes, lab cheatsheets, and practical references
-- **Medium:** Detailed project walkthroughs and step-by-step lab write-ups
-- **LinkedIn:** Completed projects, professional updates, and work/career opportunities
+──────────────────────────────
 
----
+✦ **building**
 
-[TikTok](https://www.tiktok.com/@cozyxss) | [Twitter](https://x.com/cozyxss) | [Medium](https://medium.com/@cozyxss) | [LinkedIn](https://linkedin.com/in/bbetulkaya)
+▸ **[otel-it-lab](https://github.com/cozyxss/otel-it-lab)** — a hotel's IT infrastructure from scratch: AD, GPO, PowerShell, VLANs  
+▸ **Jarvis** — a local, Turkish-speaking assistant on Ollama *(in progress)*  
+▸ **PowerShell dungeon** — learning PowerShell through a game I'm building for myself
+
+✦ **currently**
+
+→ hotel IT lab: DHCP, file shares, GPOs  
+→ TryHackMe: Penetration Tester path  
+→ PortSwigger Web Security Academy: IDOR & access control
+
+✦ **toolbox**
+
+```
+systems    · Windows Server · Active Directory · Group Policy · DNS · DHCP · Linux
+network    · Cisco Packet Tracer · Wireshark · VLAN · ACL
+security   · Burp Suite · TryHackMe · PortSwigger Academy
+scripting  · PowerShell
+ai         · Ollama · local LLMs
+web        · Vue.js
+creative   · Unity · Blender
+```
+
+✦ **certificates**
+
+Google Cybersecurity Professional Certificate
+
+──────────────────────────────
+
+→ **[Medium](https://medium.com/@cozyxss)**: lab write-ups  
+→ **[TikTok @muhendiskomsu](https://www.tiktok.com/@muhendiskomsu)**: a daily log of what I'm building and learning  
+→ **[LinkedIn](https://linkedin.com/in/bbetulkaya)** · **[X](https://x.com/cozyxss)**
+
+<p align="center">˖ ݁ ⋆ thanks for stopping by ⋆ ݁ ˖</p>
